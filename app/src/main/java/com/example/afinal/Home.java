@@ -42,7 +42,7 @@ public class Home extends AppCompatActivity {
     //Them
     private EditText nameAdd, priceAdd;
     private Button btnAdd;
-
+    private Button btnAdd1;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
